@@ -1,0 +1,8 @@
+.navbar-inverse .navbar-nav > li > a {
+  color: #FFFFFF;
+  
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: #76cdd8;
+}
+
